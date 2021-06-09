@@ -1,14 +1,14 @@
 module.exports = {
 
-    getSongs(){
+    getMovie(){
 
     },
 
-    addSong(){
+    addMovie(){
 
     },
 
-    deleteSong(){
+    deleteMovie(){
 
     }
 }
